@@ -19,4 +19,6 @@ L'obiettivo è quello di praticare lo sviluppo web front-end riproducendo fedelm
 **1.** Clona questo repository sul tuo computer                              
 **2.** Apri il file index ed esplora la landing                                                   
 ---
+## Autore
+Davide Genovese
 Esplora la pagina replica della landing page di OpenAI.
