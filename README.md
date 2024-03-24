@@ -20,5 +20,9 @@ L'obiettivo è quello di praticare lo sviluppo web front-end riproducendo fedelm
 **2.** Apri il file index ed esplora la landing                                                   
 ---
 ## Autore
-Davide Genovese
+Davide Genovese                                         
+
+
+
+
 Esplora la pagina replica della landing page di OpenAI.
